@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- SwichButton -->
+    <attr name="buttonOnsrc" format="reference" />
+    <attr name="buttonOffsrc" format="reference" />
+    <attr name="bgOnsrc" format="reference" />
+    <attr name="bgOffsrc" format="reference" />
+    <declare-styleable name="SwitchButton">
+        <attr name="buttonOnsrc" />
+        <attr name="buttonOffsrc" />
+        <attr name="bgOnsrc" />
+        <attr name="bgOffsrc"/>
+    </declare-styleable>
+    <!-- SwichButton -->
+</resources>

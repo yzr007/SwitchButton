@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.yzr.switchbutton.SwitchButton
+        xmlns:custom="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/sb_yejian"
+        android:layout_width="50dp"
+        android:layout_height="30dp"
+        android:layout_centerInParent="true"
+        custom:buttonOnsrc="@drawable/white_shape"
+        custom:buttonOffsrc="@drawable/white_shape"
+        custom:bgOffsrc="@drawable/bg_switchbtn"
+        custom:bgOnsrc="@drawable/bg_switchbtn1"/>
+
+</RelativeLayout>
